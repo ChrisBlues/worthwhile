@@ -35,6 +35,7 @@ formClose.addEventListener('click', () => {
     loginForm.classList.remove('active');
 });
 
+
 // Pour vidéos moins de 50 Mo
 videoBtn.forEach(btn => {
     btn.addEventListener('click', () => {

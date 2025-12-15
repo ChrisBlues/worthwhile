@@ -1,6 +1,0 @@
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-images/vid-1.mp4 filter=lfs diff=lfs merge=lfs -text
-images/vid-2.mp4 filter=lfs diff=lfs merge=lfs -text
-images/vid-3.mp4 filter=lfs diff=lfs merge=lfs -text
-images/vid-4.mp4 filter=lfs diff=lfs merge=lfs -text
-images/vid-5.mp4 filter=lfs diff=lfs merge=lfs -text
